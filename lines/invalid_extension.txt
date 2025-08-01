@@ -1,0 +1,3 @@
+# invalid_extension.txt for lines.py Week 6 Problem Set 6 Lines of Code
+
+invalid_extension.txt is not a .py python file so should return "Not a Python file" when run python lines.py invalid_extension.txt
